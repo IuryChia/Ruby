@@ -1,0 +1,7 @@
+source "http://rubygems.org"
+
+gem "cucumber", "~> 7.1"
+gem "rspec"
+gem "capybara"
+gem "selenium-webdriver", "~> 4.8", ">= 4.8.5"
+gem 'site_prism', '~> 2.9'
